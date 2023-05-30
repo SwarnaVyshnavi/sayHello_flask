@@ -1,0 +1,34 @@
+body
+{
+    background-color: black;
+    text-align: center;
+}
+img{
+    width:600px;
+    height:300px;
+}
+p{
+    color:white;
+    font:Shanti;
+    font-size: 50px;
+    margin:20px;
+}
+input{
+    width:200px;
+    height:30px;
+    margin:20px;
+    border-radius: 10px;
+}
+
+#greet{
+    background-color: red;
+    color:white;
+    width:200px;
+}
+#green:hover{
+    background-color: mediumvioletred;
+    cursor:pointer;
+}
+input:focus{
+    border:solid 5px #00FFCE;
+}
